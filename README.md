@@ -79,11 +79,12 @@ et après dans il faut  redémarrer apache :
 
 sudo systemctl restart apache2
 
-Pour le .htpasswd il faut aller sur ce site :
+## Pour le fichier .htpasswd
 
-https://hostingcanada.org/htpasswd-generator/
+Utilisez ce générateur en ligne pour créer un utilisateur et mot de passe sécurisés :
+htpasswd generator
 
-et coller le résultat dans le .htpasswd.
+Copiez ensuite le résultat dans le fichier .htpasswd.
 
 
 ### Démo du projet
