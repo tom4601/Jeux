@@ -84,3 +84,9 @@ Pour le .htpasswd il faut aller sur ce site :
 https://hostingcanada.org/htpasswd-generator/
 
 et coller le résultat dans le .htpasswd.
+
+
+### Démo du projet
+
+https://www.youtube.com/watch?v=bdYLbZCEBjw
+
